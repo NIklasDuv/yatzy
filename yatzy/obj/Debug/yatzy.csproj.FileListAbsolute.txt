@@ -1,0 +1,15 @@
+C:\Users\The Dude\source\repos\yatzy\yatzy\bin\Debug\yatzy.exe.config
+C:\Users\The Dude\source\repos\yatzy\yatzy\bin\Debug\yatzy.exe
+C:\Users\The Dude\source\repos\yatzy\yatzy\bin\Debug\yatzy.pdb
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy.csprojResolveAssemblyReference.cache
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\MainWindow.g.cs
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\App.g.cs
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy_MarkupCompile.cache
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy_MarkupCompile.lref
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\MainWindow.baml
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy.g.resources
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy.Properties.Resources.resources
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy.csproj.GenerateResource.Cache
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy.csproj.CoreCompileInputs.cache
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy.exe
+C:\Users\The Dude\source\repos\yatzy\yatzy\obj\Debug\yatzy.pdb
